@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=name\ waitingTime\ type\ holdingTime
+comment0.target=Players(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=java.lang.String\ getWaitingTime()
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment4.params=
+comment4.target=java.lang.String\ getHoldingTime()
+numComments=5
